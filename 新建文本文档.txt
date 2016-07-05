@@ -1,2 +1,10 @@
 Android SVN
 huangxi hx22795
+
+项目管理系统
+huangjing 100110
+huangxi huangxi001
+
+C11SVN
+https://192.168.0.47/svn/C11
+huangx
