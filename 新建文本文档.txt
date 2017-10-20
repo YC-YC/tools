@@ -8,3 +8,8 @@ huangxi huangxi001
 C11SVN
 https://192.168.0.47/svn/C11
 huangx
+
+github:
+name YC-YC
+email:yellowc.yc@aliyun.com
+mima13
